@@ -59,7 +59,7 @@ six==1.16.0
     # via
     #   flask-cors
     #   flask-restful
-werkzeug==2.0.3
+werkzeug==2.2.3
     # via flask
 wtforms[email]==3.0.1
     # via
